@@ -1,6 +1,6 @@
 # Pemograman-Web
-**Deskripsi asli/**
+**Deskripsi asli**
 repo untuk latihan
 
-**deskripsi klon/**
+**deskripsi klon**
 ajarin dong puhhhh sepuhhhhhhh!!!!!!
